@@ -1,0 +1,36 @@
+body{
+    color:rgb(0, 0, 0)
+    
+}
+
+#Score{
+    font-size: 20px;
+    margin: 30px;
+}
+
+#Timer{
+    font-size: 20px;
+    float: right;
+}
+
+#Drawn_Sketch{
+color: rgb(93, 158, 255);
+}
+
+canvas
+  {
+border: 5px solid rgb(255, 255, 255);
+border-radius: 20px;
+box-shadow: 5px 5px 5px rgb(136, 136, 136);
+margin-top: 160px;
+  }
+
+.Developed_sign{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
